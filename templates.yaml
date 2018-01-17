@@ -1,0 +1,6 @@
+welcome: Hello Montre, would you like to hear what your top songs are? You can choose between 1 week, 1 month, 3 months, 6 months and a whole year! Which will it be?
+another_question: Would you like to hear another one? You have the same options as before. If not say exit 
+
+win: Good job!
+
+lose: Sorry, that's the wrong answer.
