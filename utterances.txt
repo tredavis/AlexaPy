@@ -1,0 +1,70 @@
+YesIntent yes
+YesIntent sure
+YesIntent yeah
+YesIntent sure thing
+YesIntent sure thang
+WeekIntent tell me my stats for one week
+WeekIntent tell me my stats for the last week
+WeekIntent tell me my stats for week
+WeekIntent what was my top songs for last week
+WeekIntent what was my top songs this week
+WeekIntent what are my top songs for last week
+WeekIntent what are my top songs this week
+WeekIntent one week
+WeekIntent only one week
+WeekIntent top songs this week
+WeekIntent top this week
+WeekIntent top week
+WeekIntent one week
+WeekIntent how about one week
+MonthIntent tell me my stats for one month
+MonthIntent tell me my stats for last month
+MonthIntent tell me my stats for this month
+MonthIntent what are my top songs for this month
+MonthIntent what are my top songs for month
+MonthIntent what were my top songs for this month
+MonthIntent top songs this month
+MonthIntent top songs this month
+MonthIntent only one month
+MonthIntent one month
+MonthIntent how about one month
+ThreeMonthIntent tell me my stats for three months
+ThreeMonthIntent tell me what my stats are for three months
+ThreeMonthIntent what have been my tracks over three months
+ThreeMonthIntent what have been my song over three months
+ThreeMonthIntent what are my top songs over three months
+ThreeMonthIntent tracks over three months
+ThreeMonthIntent songs over three months
+ThreeMonthIntent top songs in last three months
+ThreeMonthIntent how about three months
+ThreeMonthIntent three months
+ThreeMonthIntent how about three months
+SixMonthIntent tell me my stats for six months
+SixMonthIntent tell me my songs over six months
+SixMonthIntent what are my top songs over six months
+SixMonthIntent tell me my stats over six months
+SixMonthIntent what are my top tracks for the last six months
+SixMonthIntent what are my top songs for the last six months
+SixMonthIntent top over six months
+SixMonthIntent top tracks over six months
+SixMonthIntent top songs over six months
+SixMonthIntent top tracks for the last six months
+SixMonthIntent top songs for the last six months
+SixMonthIntent six months
+SixMonthIntent how about six months
+YearIntent tell me my stats for one year
+YearIntent tell me my stats for the last year
+YearIntent tell me my stats over the last year
+YearIntent what are my top songs for the last year
+YearIntent what are my top songs over the last year
+YearIntent last year
+YearIntent top over year
+YearIntent one year
+YearIntent top songs over a year
+YearIntent top tracks over a year
+YearIntent top songs for this year
+YearIntent top tracks for this year
+YearIntent top for this year
+YearIntent a year
+YearIntent year
+YearIntent how about one year
